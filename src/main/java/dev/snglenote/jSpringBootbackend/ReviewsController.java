@@ -16,7 +16,7 @@ public class ReviewsController {
     private ReviewsService reviewsService;
 
     public ResponseEntity<Reviews> createReviews(@RequestBody Map<String, String> payload){
-        return new ResponseEntity<Reviews>(reviewsService.createReviews(payload.get("reviewBody"), payload.get("imdbId")), HttpStatus.CREATED);
+        return new ResponseEntity<Reviews>(reviewsService.createReviews(payload.get("reviewsBody"), payload.get("imdbId")), HttpStatus.CREATED);
 
     }
 }
