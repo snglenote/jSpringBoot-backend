@@ -1,6 +1,6 @@
 # jSpringBoot-backend
 
-An backend API for a movie website made using the [Java Spring Boot](https://start.spring.io) tool, Spring Framework and MongoDB. The API allows users to send requests to:
+An backend REST API for a movie website made using the [Java Spring Boot](https://start.spring.io) tool, Spring Framework and MongoDB. The API allows users to send requests to:
 
 
 * **get all movies:**
