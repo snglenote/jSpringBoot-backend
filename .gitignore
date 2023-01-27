@@ -34,3 +34,6 @@ build/
 
 ### ENV Files ###
 .env
+
+### json Files ###
+movies.json
