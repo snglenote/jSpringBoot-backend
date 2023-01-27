@@ -42,7 +42,7 @@ Response: (Format with only 2 for example)
 
 * **get a single movie:**
 
-Request: GET `localhost:8080/api/v1/movies`
+Request: GET `localhost:8080/api/v1/movies/"idmbId"`
 
 Response: (Format)
 ```
