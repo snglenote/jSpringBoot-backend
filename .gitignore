@@ -35,5 +35,5 @@ build/
 ### ENV Files ###
 .env
 
-### json Files ###
-movies.json
+### JSON Files ###
+src/main/resources/movies.json
